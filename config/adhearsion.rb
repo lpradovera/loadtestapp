@@ -36,7 +36,7 @@ Adhearsion.config do |config|
   config.punchblock.host = "127.0.0.1" # Your AMI host
   config.punchblock.port = 5038 # Your AMI port
 
-  config.platform.dial_target = "SIP/1@tincan.mojolingo.com"
+  #config.platform.dial_target = "SIP/1@tincan.mojolingo.com"
   #config.platform.dial_target = "Local/77@default"
 end
 
