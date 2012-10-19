@@ -18,7 +18,7 @@ Adhearsion.config do |config|
   #        end
 
   config.development do |dev|
-    dev.platform.logging.level = :trace
+    dev.platform.logging.level = :info
   end
 
   ##

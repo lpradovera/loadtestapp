@@ -4,9 +4,8 @@ class SimpleProfile < Adhearsion::CallController
   include CallControllerHelper
   def run
     answer
-    play_multi "#{Adhearsion.config.platform[:root]}/sounds/80sec-monkeys.wav"
-    play_multi "#{Adhearsion.config.platform[:root]}/sounds/25sec-monkeys.wav"
-    play_multi "#{Adhearsion.config.platform[:root]}/sounds/25sec-monkeys.wav"
+    play_multi "#{Adhearsion.config.platform[:root]}/sounds/30sec-monkeys.wav"
+    logger.info "CALL #{call.id} FINISHED"
     hangup
   end
 end

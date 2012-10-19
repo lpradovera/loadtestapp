@@ -1,1 +1,4 @@
 sudo sipp -i 127.0.0.1 -sf load-test-1-simple.xml -l 5 -m 100 -r 2 -s 1 -p 8832 127.0.0.1 -trace_err
+sudo sipp -i 127.0.0.1 -sf load-test-1-simple.xml -l 4 -m 20 -r 2 -s 1 -p 8832 127.0.0.1 -trace_stats
+sudo sipp -i 127.0.0.1 -sf load-test-1-simple.xml -l 4 -m 20 -r 2 -s 1 -p 8832 127.0.0.1 -trace_stat -stf simple_asterisk.csv -fd 10
+sudo sipp -i 127.0.0.1 -sf load-test-1-simple.xml -l 4 -m 20 -r 2 -s 1 -p 8832 127.0.0.1 -trace_stat -stf ../results/simple_asterisk.csv -fd 10

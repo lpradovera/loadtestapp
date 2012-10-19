@@ -1,0 +1,2316 @@
+sipp: The following events occured:
+2012-10-13	18:41:42:391	1350146502.391010: Aborting call on unexpected message for Call-Id '37-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 503 Unavailable
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-37-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=37
+To: sut <sip:1@127.0.0.1:5060>;tag=as6da89ac0
+Call-ID: 37-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:42:489	1350146502.489227: Aborting call on unexpected message for Call-Id '38-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-38-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=38
+To: sut <sip:1@127.0.0.1:5060>;tag=as512a78c6
+Call-ID: 38-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:42:589	1350146502.589427: Aborting call on unexpected message for Call-Id '39-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-39-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=39
+To: sut <sip:1@127.0.0.1:5060>;tag=as77cf1af1
+Call-ID: 39-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:42:689	1350146502.689389: Aborting call on unexpected message for Call-Id '40-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-40-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=40
+To: sut <sip:1@127.0.0.1:5060>;tag=as2299eeda
+Call-ID: 40-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:42:790	1350146502.790525: Aborting call on unexpected message for Call-Id '41-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-41-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=41
+To: sut <sip:1@127.0.0.1:5060>;tag=as60b4d9b0
+Call-ID: 41-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:42:890	1350146502.890793: Aborting call on unexpected message for Call-Id '42-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 503 Unavailable
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-42-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=42
+To: sut <sip:1@127.0.0.1:5060>;tag=as78c29cbf
+Call-ID: 42-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:42:989	1350146502.989922: Aborting call on unexpected message for Call-Id '43-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 503 Unavailable
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-43-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=43
+To: sut <sip:1@127.0.0.1:5060>;tag=as3d63645a
+Call-ID: 43-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:43:090	1350146503.090532: Aborting call on unexpected message for Call-Id '44-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-44-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=44
+To: sut <sip:1@127.0.0.1:5060>;tag=as4b04f088
+Call-ID: 44-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:43:189	1350146503.189050: Aborting call on unexpected message for Call-Id '45-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-45-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=45
+To: sut <sip:1@127.0.0.1:5060>;tag=as0047df5a
+Call-ID: 45-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:43:289	1350146503.289819: Aborting call on unexpected message for Call-Id '46-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-46-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=46
+To: sut <sip:1@127.0.0.1:5060>;tag=as60111ea1
+Call-ID: 46-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:43:351	1350146503.351133: Dead call 19-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK07e0fcbb;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as3dddea9c
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=19
+Call-ID: 19-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:43:390	1350146503.390768: Aborting call on unexpected message for Call-Id '47-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 503 Unavailable
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-47-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=47
+To: sut <sip:1@127.0.0.1:5060>;tag=as4642af5e
+Call-ID: 47-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:43:491	1350146503.491545: Aborting call on unexpected message for Call-Id '48-1095@127.0.0.1': while expecting '180' (index 2), received 'SIP/2.0 603 Declined
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-48-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=48
+To: sut <sip:1@127.0.0.1:5060>;tag=as5461fe15
+Call-ID: 48-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:43:591	1350146503.591156: Aborting call on unexpected message for Call-Id '49-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 503 Unavailable
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-49-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=49
+To: sut <sip:1@127.0.0.1:5060>;tag=as571e1e87
+Call-ID: 49-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:43:689	1350146503.689049: Aborting call on unexpected message for Call-Id '50-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-50-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=50
+To: sut <sip:1@127.0.0.1:5060>;tag=as1d33d150
+Call-ID: 50-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:43:790	1350146503.790460: Aborting call on unexpected message for Call-Id '51-1095@127.0.0.1': while expecting '180' (index 2), received 'SIP/2.0 603 Declined
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-51-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=51
+To: sut <sip:1@127.0.0.1:5060>;tag=as1253985d
+Call-ID: 51-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:43:859	1350146503.859743: Dead call 21-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK19f0a41d;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as29ac417f
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=21
+Call-ID: 21-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:43:888	1350146503.888930: Aborting call on unexpected message for Call-Id '52-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-52-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=52
+To: sut <sip:1@127.0.0.1:5060>;tag=as5cd24db0
+Call-ID: 52-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:43:956	1350146503.956264: Dead call 22-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK5c5f2a87;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as5d339c44
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=22
+Call-ID: 22-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:43:991	1350146503.991601: Aborting call on unexpected message for Call-Id '53-1095@127.0.0.1': while expecting '180' (index 2), received 'SIP/2.0 603 Declined
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-53-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=53
+To: sut <sip:1@127.0.0.1:5060>;tag=as537dea96
+Call-ID: 53-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:44:089	1350146504.089282: Aborting call on unexpected message for Call-Id '54-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 503 Unavailable
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-54-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=54
+To: sut <sip:1@127.0.0.1:5060>;tag=as07d3ef4a
+Call-ID: 54-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:44:189	1350146504.189308: Aborting call on unexpected message for Call-Id '55-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-55-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=55
+To: sut <sip:1@127.0.0.1:5060>;tag=as7fa1fa4c
+Call-ID: 55-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:44:228	1350146504.228266: Dead call 24-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK3c0d02bc;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as123db781
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=24
+Call-ID: 24-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:44:289	1350146504.289577: Aborting call on unexpected message for Call-Id '56-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-56-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=56
+To: sut <sip:1@127.0.0.1:5060>;tag=as1005b592
+Call-ID: 56-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:44:351	1350146504.351136: Dead call 19-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK07e0fcbb;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as3dddea9c
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=19
+Call-ID: 19-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:44:391	1350146504.391871: Aborting call on unexpected message for Call-Id '57-1095@127.0.0.1': while expecting '180' (index 2), received 'SIP/2.0 603 Declined
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-57-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=57
+To: sut <sip:1@127.0.0.1:5060>;tag=as2c69bcc6
+Call-ID: 57-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:44:488	1350146504.488210: Dead call 27-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK56067b74;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as6b665fcc
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=27
+Call-ID: 27-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:44:489	1350146504.489924: Aborting call on unexpected message for Call-Id '58-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-58-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=58
+To: sut <sip:1@127.0.0.1:5060>;tag=as19735057
+Call-ID: 58-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:44:589	1350146504.589092: Aborting call on unexpected message for Call-Id '59-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-59-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=59
+To: sut <sip:1@127.0.0.1:5060>;tag=as66be8561
+Call-ID: 59-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:44:689	1350146504.689327: Aborting call on unexpected message for Call-Id '60-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-60-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=60
+To: sut <sip:1@127.0.0.1:5060>;tag=as4058b3e3
+Call-ID: 60-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:44:790	1350146504.790887: Aborting call on unexpected message for Call-Id '61-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 503 Unavailable
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-61-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=61
+To: sut <sip:1@127.0.0.1:5060>;tag=as54a921f6
+Call-ID: 61-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:44:841	1350146504.841831: Dead call 30-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK0457ec12;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as33827ce5
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=30
+Call-ID: 30-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:44:859	1350146504.859104: Dead call 21-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK19f0a41d;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as29ac417f
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=21
+Call-ID: 21-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:44:890	1350146504.890243: Aborting call on unexpected message for Call-Id '62-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-62-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=62
+To: sut <sip:1@127.0.0.1:5060>;tag=as0bb1eb1f
+Call-ID: 62-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:44:956	1350146504.956645: Dead call 22-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK5c5f2a87;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as5d339c44
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=22
+Call-ID: 22-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:44:990	1350146504.990124: Aborting call on unexpected message for Call-Id '63-1095@127.0.0.1': while expecting '180' (index 2), received 'SIP/2.0 603 Declined
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-63-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=63
+To: sut <sip:1@127.0.0.1:5060>;tag=as4d601585
+Call-ID: 63-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:45:089	1350146505.089258: Aborting call on unexpected message for Call-Id '64-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 503 Unavailable
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-64-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=64
+To: sut <sip:1@127.0.0.1:5060>;tag=as0ed335b1
+Call-ID: 64-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:45:190	1350146505.190734: Aborting call on unexpected message for Call-Id '65-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-65-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=65
+To: sut <sip:1@127.0.0.1:5060>;tag=as3ca1a93f
+Call-ID: 65-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:45:227	1350146505.227940: Dead call 24-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK3c0d02bc;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as123db781
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=24
+Call-ID: 24-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:45:233	1350146505.233585: Dead call 33-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK6322abdb;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as5d229da6
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=33
+Call-ID: 33-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:45:290	1350146505.290269: Aborting call on unexpected message for Call-Id '66-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-66-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=66
+To: sut <sip:1@127.0.0.1:5060>;tag=as2d0d995b
+Call-ID: 66-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:45:389	1350146505.389882: Aborting call on unexpected message for Call-Id '67-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-67-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=67
+To: sut <sip:1@127.0.0.1:5060>;tag=as7d4a7f22
+Call-ID: 67-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:45:471	1350146505.471669: Dead call 36-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK1c7dae50;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as56958cc5
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=36
+Call-ID: 36-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:45:486	1350146505.486895: Dead call 27-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK56067b74;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as6b665fcc
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=27
+Call-ID: 27-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:45:490	1350146505.490762: Aborting call on unexpected message for Call-Id '68-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-68-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=68
+To: sut <sip:1@127.0.0.1:5060>;tag=as3b1eebab
+Call-ID: 68-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:45:590	1350146505.590803: Aborting call on unexpected message for Call-Id '69-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-69-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=69
+To: sut <sip:1@127.0.0.1:5060>;tag=as50083579
+Call-ID: 69-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:45:688	1350146505.688973: Aborting call on unexpected message for Call-Id '70-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-70-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=70
+To: sut <sip:1@127.0.0.1:5060>;tag=as72c239ca
+Call-ID: 70-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:45:789	1350146505.789691: Aborting call on unexpected message for Call-Id '71-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-71-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=71
+To: sut <sip:1@127.0.0.1:5060>;tag=as1bb39892
+Call-ID: 71-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:45:841	1350146505.841292: Dead call 30-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK0457ec12;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as33827ce5
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=30
+Call-ID: 30-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:45:890	1350146505.890127: Aborting call on unexpected message for Call-Id '72-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-72-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=72
+To: sut <sip:1@127.0.0.1:5060>;tag=as12a8d331
+Call-ID: 72-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:45:989	1350146505.989219: Aborting call on unexpected message for Call-Id '73-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-73-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=73
+To: sut <sip:1@127.0.0.1:5060>;tag=as1bc7705f
+Call-ID: 73-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:46:090	1350146506.090398: Aborting call on unexpected message for Call-Id '74-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-74-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=74
+To: sut <sip:1@127.0.0.1:5060>;tag=as6dc3e862
+Call-ID: 74-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:46:190	1350146506.190717: Aborting call on unexpected message for Call-Id '75-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-75-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=75
+To: sut <sip:1@127.0.0.1:5060>;tag=as3a090391
+Call-ID: 75-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:46:233	1350146506.233901: Dead call 33-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK6322abdb;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as5d229da6
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=33
+Call-ID: 33-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:46:289	1350146506.289573: Aborting call on unexpected message for Call-Id '76-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-76-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=76
+To: sut <sip:1@127.0.0.1:5060>;tag=as38f3e62b
+Call-ID: 76-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:46:350	1350146506.350574: Dead call 19-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK07e0fcbb;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as3dddea9c
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=19
+Call-ID: 19-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:46:389	1350146506.389636: Aborting call on unexpected message for Call-Id '77-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-77-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=77
+To: sut <sip:1@127.0.0.1:5060>;tag=as0466b9f5
+Call-ID: 77-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:46:471	1350146506.471194: Dead call 36-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK1c7dae50;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as56958cc5
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=36
+Call-ID: 36-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:46:490	1350146506.490113: Aborting call on unexpected message for Call-Id '78-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-78-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=78
+To: sut <sip:1@127.0.0.1:5060>;tag=as7c6e8429
+Call-ID: 78-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:46:590	1350146506.590367: Aborting call on unexpected message for Call-Id '79-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-79-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=79
+To: sut <sip:1@127.0.0.1:5060>;tag=as134a2f53
+Call-ID: 79-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:46:690	1350146506.690185: Aborting call on unexpected message for Call-Id '80-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-80-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=80
+To: sut <sip:1@127.0.0.1:5060>;tag=as31c42fda
+Call-ID: 80-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:46:790	1350146506.790777: Aborting call on unexpected message for Call-Id '81-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-81-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=81
+To: sut <sip:1@127.0.0.1:5060>;tag=as62b94b09
+Call-ID: 81-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:46:858	1350146506.858507: Dead call 21-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK19f0a41d;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as29ac417f
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=21
+Call-ID: 21-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:46:889	1350146506.889180: Aborting call on unexpected message for Call-Id '82-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-82-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=82
+To: sut <sip:1@127.0.0.1:5060>;tag=as363249e4
+Call-ID: 82-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:46:956	1350146506.956454: Dead call 22-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK5c5f2a87;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as5d339c44
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=22
+Call-ID: 22-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:46:989	1350146506.989085: Aborting call on unexpected message for Call-Id '83-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-83-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=83
+To: sut <sip:1@127.0.0.1:5060>;tag=as30ded27b
+Call-ID: 83-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:47:090	1350146507.090361: Aborting call on unexpected message for Call-Id '84-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-84-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=84
+To: sut <sip:1@127.0.0.1:5060>;tag=as09fcb45f
+Call-ID: 84-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:47:190	1350146507.190661: Aborting call on unexpected message for Call-Id '85-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-85-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=85
+To: sut <sip:1@127.0.0.1:5060>;tag=as6a829988
+Call-ID: 85-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:47:228	1350146507.228170: Dead call 24-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK3c0d02bc;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as123db781
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=24
+Call-ID: 24-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:47:290	1350146507.290786: Aborting call on unexpected message for Call-Id '86-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-86-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=86
+To: sut <sip:1@127.0.0.1:5060>;tag=as09517499
+Call-ID: 86-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:47:389	1350146507.389233: Aborting call on unexpected message for Call-Id '87-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-87-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=87
+To: sut <sip:1@127.0.0.1:5060>;tag=as7eda622d
+Call-ID: 87-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:47:488	1350146507.488236: Dead call 27-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK56067b74;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as6b665fcc
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=27
+Call-ID: 27-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:47:489	1350146507.489849: Aborting call on unexpected message for Call-Id '88-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-88-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=88
+To: sut <sip:1@127.0.0.1:5060>;tag=as160059fd
+Call-ID: 88-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:47:589	1350146507.589626: Aborting call on unexpected message for Call-Id '89-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-89-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=89
+To: sut <sip:1@127.0.0.1:5060>;tag=as769dd508
+Call-ID: 89-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:47:689	1350146507.689649: Aborting call on unexpected message for Call-Id '90-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-90-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=90
+To: sut <sip:1@127.0.0.1:5060>;tag=as2d62c8e4
+Call-ID: 90-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:47:789	1350146507.789691: Aborting call on unexpected message for Call-Id '91-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-91-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=91
+To: sut <sip:1@127.0.0.1:5060>;tag=as09863c69
+Call-ID: 91-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:47:841	1350146507.841086: Dead call 30-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK0457ec12;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as33827ce5
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=30
+Call-ID: 30-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:47:888	1350146507.888845: Aborting call on unexpected message for Call-Id '92-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-92-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=92
+To: sut <sip:1@127.0.0.1:5060>;tag=as4bf8c9fd
+Call-ID: 92-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:47:990	1350146507.990401: Aborting call on unexpected message for Call-Id '93-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-93-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=93
+To: sut <sip:1@127.0.0.1:5060>;tag=as53d6aa0f
+Call-ID: 93-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:48:090	1350146508.090100: Aborting call on unexpected message for Call-Id '94-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-94-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=94
+To: sut <sip:1@127.0.0.1:5060>;tag=as3f9bc162
+Call-ID: 94-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:48:190	1350146508.190498: Aborting call on unexpected message for Call-Id '95-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-95-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=95
+To: sut <sip:1@127.0.0.1:5060>;tag=as7d535313
+Call-ID: 95-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:48:232	1350146508.232989: Dead call 33-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK6322abdb;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as5d229da6
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=33
+Call-ID: 33-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:48:290	1350146508.290470: Aborting call on unexpected message for Call-Id '96-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-96-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=96
+To: sut <sip:1@127.0.0.1:5060>;tag=as7cb4b316
+Call-ID: 96-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:48:390	1350146508.390876: Aborting call on unexpected message for Call-Id '97-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-97-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=97
+To: sut <sip:1@127.0.0.1:5060>;tag=as28018fc0
+Call-ID: 97-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:48:471	1350146508.471195: Dead call 36-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK1c7dae50;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as56958cc5
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=36
+Call-ID: 36-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:48:490	1350146508.490195: Aborting call on unexpected message for Call-Id '98-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-98-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=98
+To: sut <sip:1@127.0.0.1:5060>;tag=as0c510b92
+Call-ID: 98-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:48:590	1350146508.590675: Aborting call on unexpected message for Call-Id '99-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-99-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=99
+To: sut <sip:1@127.0.0.1:5060>;tag=as315440ce
+Call-ID: 99-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:48:690	1350146508.690738: Aborting call on unexpected message for Call-Id '100-1095@127.0.0.1': while expecting '100' (index 1), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 127.0.0.1:8832;branch=z9hG4bK-1095-100-0;received=127.0.0.1;rport=8832
+From: sipp <sip:sipp@127.0.0.1:8832>;tag=100
+To: sut <sip:1@127.0.0.1:5060>;tag=as50ad0f1e
+Call-ID: 100-1095@127.0.0.1
+CSeq: 1 INVITE
+Server: Asterisk PBX 10.7.0
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2012-10-13	18:41:50:350	1350146510.350882: Dead call 19-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK07e0fcbb;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as3dddea9c
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=19
+Call-ID: 19-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:50:859	1350146510.859743: Dead call 21-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK19f0a41d;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as29ac417f
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=21
+Call-ID: 21-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:50:956	1350146510.956360: Dead call 22-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK5c5f2a87;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as5d339c44
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=22
+Call-ID: 22-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:51:228	1350146511.228423: Dead call 24-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK3c0d02bc;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as123db781
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=24
+Call-ID: 24-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:51:487	1350146511.487707: Dead call 27-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK56067b74;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as6b665fcc
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=27
+Call-ID: 27-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:51:841	1350146511.841170: Dead call 30-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK0457ec12;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as33827ce5
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=30
+Call-ID: 30-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:52:233	1350146512.233533: Dead call 33-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK6322abdb;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as5d229da6
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=33
+Call-ID: 33-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:52:471	1350146512.471394: Dead call 36-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK1c7dae50;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as56958cc5
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=36
+Call-ID: 36-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:54:351	1350146514.351445: Dead call 19-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK07e0fcbb;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as3dddea9c
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=19
+Call-ID: 19-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:54:859	1350146514.859485: Dead call 21-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK19f0a41d;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as29ac417f
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=21
+Call-ID: 21-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:54:956	1350146514.956528: Dead call 22-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK5c5f2a87;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as5d339c44
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=22
+Call-ID: 22-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:55:228	1350146515.228390: Dead call 24-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK3c0d02bc;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as123db781
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=24
+Call-ID: 24-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:55:488	1350146515.488498: Dead call 27-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK56067b74;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as6b665fcc
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=27
+Call-ID: 27-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:55:841	1350146515.841296: Dead call 30-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK0457ec12;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as33827ce5
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=30
+Call-ID: 30-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:56:233	1350146516.233092: Dead call 33-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK6322abdb;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as5d229da6
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=33
+Call-ID: 33-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:56:471	1350146516.471450: Dead call 36-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK1c7dae50;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as56958cc5
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=36
+Call-ID: 36-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:58:351	1350146518.351096: Dead call 19-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK07e0fcbb;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as3dddea9c
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=19
+Call-ID: 19-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:58:858	1350146518.858594: Dead call 21-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK19f0a41d;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as29ac417f
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=21
+Call-ID: 21-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:58:956	1350146518.956095: Dead call 22-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK5c5f2a87;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as5d339c44
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=22
+Call-ID: 22-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:59:227	1350146519.227713: Dead call 24-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK3c0d02bc;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as123db781
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=24
+Call-ID: 24-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:59:487	1350146519.487155: Dead call 27-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK56067b74;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as6b665fcc
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=27
+Call-ID: 27-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:41:59:841	1350146519.841280: Dead call 30-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK0457ec12;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as33827ce5
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=30
+Call-ID: 30-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:00:233	1350146520.233294: Dead call 33-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK6322abdb;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as5d229da6
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=33
+Call-ID: 33-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:00:470	1350146520.470969: Dead call 36-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK1c7dae50;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as56958cc5
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=36
+Call-ID: 36-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:02:351	1350146522.351096: Dead call 19-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK07e0fcbb;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as3dddea9c
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=19
+Call-ID: 19-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:02:858	1350146522.858593: Dead call 21-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK19f0a41d;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as29ac417f
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=21
+Call-ID: 21-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:02:955	1350146522.955908: Dead call 22-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK5c5f2a87;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as5d339c44
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=22
+Call-ID: 22-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:03:228	1350146523.228786: Dead call 24-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK3c0d02bc;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as123db781
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=24
+Call-ID: 24-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:03:487	1350146523.487879: Dead call 27-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK56067b74;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as6b665fcc
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=27
+Call-ID: 27-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:03:840	1350146523.840493: Dead call 30-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK0457ec12;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as33827ce5
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=30
+Call-ID: 30-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:04:233	1350146524.233195: Dead call 33-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK6322abdb;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as5d229da6
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=33
+Call-ID: 33-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:04:471	1350146524.471591: Dead call 36-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK1c7dae50;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as56958cc5
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=36
+Call-ID: 36-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:04:754	1350146524.754723: Dead call 1-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK69eca381;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as79d876f8
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=1
+Call-ID: 1-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:04:954	1350146524.954281: Dead call 2-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK149943ef;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as46e5b809
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=2
+Call-ID: 2-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:05:266	1350146525.266037: Dead call 3-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK0e9584c1;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as49440800
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=3
+Call-ID: 3-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:05:471	1350146525.471031: Dead call 4-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK7235f984;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as0685bb69
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=4
+Call-ID: 4-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:05:648	1350146525.648413: Dead call 5-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK00d9df43;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as3aa5c514
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=5
+Call-ID: 5-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:05:747	1350146525.747292: Dead call 6-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK516ed572;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as205eff98
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=6
+Call-ID: 6-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:05:754	1350146525.754091: Dead call 1-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK69eca381;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as79d876f8
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=1
+Call-ID: 1-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:05:955	1350146525.955178: Dead call 2-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK149943ef;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as46e5b809
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=2
+Call-ID: 2-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:06:108	1350146526.108303: Dead call 7-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK3b177598;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as0a8670d3
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=7
+Call-ID: 7-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:06:205	1350146526.205868: Dead call 9-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK07e11f4a;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as620bedda
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=9
+Call-ID: 9-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:06:265	1350146526.265911: Dead call 3-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK0e9584c1;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as49440800
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=3
+Call-ID: 3-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:06:350	1350146526.350438: Dead call 19-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK07e0fcbb;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as3dddea9c
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=19
+Call-ID: 19-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:06:427	1350146526.427819: Dead call 8-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK3308b3b3;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as70cc0e34
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=8
+Call-ID: 8-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:06:471	1350146526.471173: Dead call 4-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK7235f984;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as0685bb69
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=4
+Call-ID: 4-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:06:508	1350146526.508839: Dead call 10-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK6cb38ed7;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as2689ff0b
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=10
+Call-ID: 10-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:06:648	1350146526.648890: Dead call 5-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK00d9df43;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as3aa5c514
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=5
+Call-ID: 5-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:06:747	1350146526.747174: Dead call 6-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK516ed572;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as205eff98
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=6
+Call-ID: 6-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:06:833	1350146526.833170: Dead call 11-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK2dc7ecc1;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as1ddeab86
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=11
+Call-ID: 11-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:06:858	1350146526.858563: Dead call 21-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK19f0a41d;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as29ac417f
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=21
+Call-ID: 21-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:06:956	1350146526.956669: Dead call 22-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK5c5f2a87;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as5d339c44
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=22
+Call-ID: 22-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:07:013	1350146527.013964: Dead call 13-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK382bcfc1;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as3c08c2ab
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=13
+Call-ID: 13-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:07:109	1350146527.109493: Dead call 7-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK3b177598;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as0a8670d3
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=7
+Call-ID: 7-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:07:110	1350146527.110648: Dead call 12-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK5fa56ec8;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as7f8e9c71
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=12
+Call-ID: 12-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:07:205	1350146527.205175: Dead call 9-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK07e11f4a;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as620bedda
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=9
+Call-ID: 9-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:07:228	1350146527.228698: Dead call 24-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK3c0d02bc;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as123db781
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=24
+Call-ID: 24-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:07:427	1350146527.427990: Dead call 8-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK3308b3b3;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as70cc0e34
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=8
+Call-ID: 8-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:07:488	1350146527.488091: Dead call 27-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK56067b74;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as6b665fcc
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=27
+Call-ID: 27-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:07:508	1350146527.508897: Dead call 10-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK6cb38ed7;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as2689ff0b
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=10
+Call-ID: 10-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:07:572	1350146527.572701: Dead call 14-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK643f4d29;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as700083a2
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=14
+Call-ID: 14-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:07:598	1350146527.598983: Dead call 15-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK458c1190;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as22a895b8
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=15
+Call-ID: 15-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:07:705	1350146527.705547: Dead call 16-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK113a7175;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as4aa9fa67
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=16
+Call-ID: 16-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:07:753	1350146527.753962: Dead call 1-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK69eca381;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as79d876f8
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=1
+Call-ID: 1-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:07:806	1350146527.806020: Dead call 17-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK658dc1aa;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as04e9d425
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=17
+Call-ID: 17-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:07:833	1350146527.833134: Dead call 11-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK2dc7ecc1;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as1ddeab86
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=11
+Call-ID: 11-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:07:841	1350146527.841049: Dead call 30-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK0457ec12;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as33827ce5
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=30
+Call-ID: 30-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:07:919	1350146527.919117: Dead call 18-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK09ebcfbe;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as681040ce
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=18
+Call-ID: 18-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:07:955	1350146527.955085: Dead call 2-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK149943ef;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as46e5b809
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=2
+Call-ID: 2-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:08:014	1350146528.014934: Dead call 13-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK382bcfc1;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as3c08c2ab
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=13
+Call-ID: 13-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:08:111	1350146528.111988: Dead call 12-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK5fa56ec8;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as7f8e9c71
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=12
+Call-ID: 12-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:08:233	1350146528.233190: Dead call 33-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK6322abdb;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as5d229da6
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=33
+Call-ID: 33-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:08:266	1350146528.266281: Dead call 3-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK0e9584c1;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as49440800
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=3
+Call-ID: 3-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:08:417	1350146528.417936: Dead call 20-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK70aa14de;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as67f973bb
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=20
+Call-ID: 20-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:08:471	1350146528.471967: Dead call 36-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK1c7dae50;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as56958cc5
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=36
+Call-ID: 36-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:08:472	1350146528.472033: Dead call 4-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK7235f984;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as0685bb69
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=4
+Call-ID: 4-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:08:571	1350146528.571772: Dead call 14-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK643f4d29;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as700083a2
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=14
+Call-ID: 14-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:08:599	1350146528.599581: Dead call 15-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK458c1190;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as22a895b8
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=15
+Call-ID: 15-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:08:648	1350146528.648735: Dead call 5-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK00d9df43;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as3aa5c514
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=5
+Call-ID: 5-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:08:705	1350146528.705829: Dead call 16-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK113a7175;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as4aa9fa67
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=16
+Call-ID: 16-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:08:747	1350146528.747891: Dead call 6-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK516ed572;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as205eff98
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=6
+Call-ID: 6-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:08:805	1350146528.805150: Dead call 17-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK658dc1aa;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as04e9d425
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=17
+Call-ID: 17-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:08:918	1350146528.918300: Dead call 23-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK0e76c347;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as234bd53d
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=23
+Call-ID: 23-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:08:919	1350146528.919443: Dead call 18-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK09ebcfbe;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as681040ce
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=18
+Call-ID: 18-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:09:092	1350146529.092981: Dead call 25-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK6f71c08d;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as2458aaa0
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=25
+Call-ID: 25-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:09:108	1350146529.108839: Dead call 7-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK3b177598;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as0a8670d3
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=7
+Call-ID: 7-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:09:205	1350146529.205769: Dead call 9-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK07e11f4a;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as620bedda
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=9
+Call-ID: 9-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:09:405	1350146529.405804: Dead call 26-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK5ef40d9f;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as550cb0b7
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=26
+Call-ID: 26-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:09:418	1350146529.418143: Dead call 20-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK70aa14de;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as67f973bb
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=20
+Call-ID: 20-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:09:428	1350146529.428176: Dead call 8-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK3308b3b3;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as70cc0e34
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=8
+Call-ID: 8-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:09:455	1350146529.455606: Dead call 28-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK70bc6165;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as2916a792
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=28
+Call-ID: 28-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:09:508	1350146529.508612: Dead call 10-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK6cb38ed7;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as2689ff0b
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=10
+Call-ID: 10-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:09:588	1350146529.588441: Dead call 29-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK6852266b;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as732d45e6
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=29
+Call-ID: 29-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:09:833	1350146529.833051: Dead call 11-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK2dc7ecc1;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as1ddeab86
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=11
+Call-ID: 11-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
+2012-10-13	18:42:09:918	1350146529.918215: Dead call 23-1095@127.0.0.1 (successful), received 'BYE sip:sipp@127.0.0.1:8832 SIP/2.0
+Via: SIP/2.0/UDP 127.0.0.1:5060;branch=z9hG4bK0e76c347;rport
+Max-Forwards: 70
+From: sut <sip:1@127.0.0.1:5060>;tag=as234bd53d
+To: sipp <sip:sipp@127.0.0.1:8832>;tag=23
+Call-ID: 23-1095@127.0.0.1
+CSeq: 102 BYE
+User-Agent: Asterisk PBX 10.7.0
+X-Asterisk-HangupCause: Normal Clearing
+X-Asterisk-HangupCauseCode: 16
+Content-Length: 0
+
+'.
